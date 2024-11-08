@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![0xRo](https://www.hackthebox.com/badge/image/757893)](https://www.hackthebox.com/badge/image/757893)
 <!--
 **GRodolphe/GRodolphe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
