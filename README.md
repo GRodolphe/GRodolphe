@@ -12,15 +12,6 @@
 
 [![0xRo](https://www.hackthebox.com/badge/image/757893)](https://www.hackthebox.com/badge/image/757893)
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=grodolphe" alt="grodolphe" /></a> </p>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=grodolphe&show_icons=true&locale=en&layout=compact" alt="grodolphe" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=grodolphe&show_icons=true&locale=en" alt="grodolphe" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=grodolphe&" alt="grodolphe" /></p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/0x_ror" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="0x_ror" height="30" width="40" /></a>
