@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Malware Analysis and pentesting.**
 
-- 📝 I regularly write articles on [https://blog.rodolpheg.xyz](blog.rodolpheg.xyz)
+- 📝 I regularly write articles on [blog.rodolpheg.xyz](https://blog.rodolpheg.xyz)
 
 - 📫 How to reach me **contact@rodolpheg.xyz**
 
