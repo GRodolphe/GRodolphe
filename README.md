@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rodolphe Ghio (RORO!)</h1>
-<h3 align="center">A passionate cybersecurity engineer from France 🇫🇷</h3>
+<h3 align="center">A passionate appsec engineer from France 🇫🇷</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=540&lines=Cybersecurity+Engineer;Malware+Analysis+%26+Pentesting;Always+learning%2C+always+breaking+things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=540&lines=AppSec+Engineer;Malware+Analysis+%26+Pentesting;Always+learning%2C+always+breaking+things" alt="Typing SVG" />
 </p>
 
 <p align="center">
